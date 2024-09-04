@@ -25,7 +25,7 @@
     /* Colors */
     --color-primary: #000E12;
     --color-secondary: #FFFFFF;
-    --color-accent: #167985;
+    --color-accent: #1570A1;
     --color-light: #DBDBDB;
 
     /* Spacing */
@@ -162,7 +162,7 @@ a {
     font-size: var(--font-size-sm);
     font-family: var(--font-secondary);
     text-align: end;
-    color: var(--color-light);
+    color: var(--color-secondary);
 }
 
 .menu-btn span::selection {
