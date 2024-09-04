@@ -668,7 +668,7 @@ a {
     justify-content: center;
     flex-direction: column;
     width: 100%;
-    background: var(--color-light);
+    background: rgb(238, 238, 238);
     gap: 1rem;
     padding: 0 0.5rem;
     border-radius: 1rem;
